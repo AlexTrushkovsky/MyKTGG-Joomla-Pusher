@@ -1,0 +1,8 @@
+#jp_send_notification label {
+    display: block;
+    float: left;
+    padding-right: 10px;
+}
+#jp_send_notification .active {
+	color: #fff;
+}
